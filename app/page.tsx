@@ -361,7 +361,7 @@ export default function Home() {
         <Reveal>
           <div className="rounded-[3rem] border border-white/10 bg-gradient-to-br from-white/[0.10] to-white/[0.03] p-10 backdrop-blur-xl md:p-16">
             <p className="mb-6 text-sm uppercase tracking-[0.4em] text-blue-300">
-              About Luce
+              About Luces
             </p>
             <h2 className="max-w-5xl text-4xl font-black leading-tight md:text-6xl">
               We help crypto brands look premium, sound trustworthy and grow with
