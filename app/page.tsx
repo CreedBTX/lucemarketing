@@ -52,7 +52,7 @@ const services = [
   {
     title: "Community Growth",
     description:
-      "From Telegram to Discord, we grow and activate communities with real conversation, moderation support and engagement strategies that keep holders around.",
+      "We grow and activate your Telegram community and X presence with real conversation, moderation support and engagement strategies that keep holders around.",
   },
   {
     title: "Campaign Management",
